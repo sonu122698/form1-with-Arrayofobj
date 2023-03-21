@@ -1,0 +1,8 @@
+.FormContainer{
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
